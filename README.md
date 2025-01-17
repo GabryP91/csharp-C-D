@@ -11,6 +11,7 @@ A – Rispondi alle seguenti domande argomentando la risposta:
   8) Definisci la differenza tra un metodo statico e un metodo d’istanza.
   9) Che cos’è un costruttore?
   10) A cosa serve l’operatore new?
+
 B – Esercizi C#
   1) Sviluppare un programma che rispetti i seguenti requisiti:
   o L'utente potrà digitare 2 numeri da tastiera
