@@ -3,7 +3,7 @@
 
     1) Che cos’è un oggetto?
         
-        Un oggetto è un'entità concreta creata a partire da una classe,  un'istanza unica con caratteristiche (attributi) e comportamenti (metodi) definiti dalla classe. 
+        Un oggetto è un'entità concreta creata a partire da una classe, un'istanza unica con caratteristiche (attributi) e comportamenti (metodi) definiti dalla classe. 
         È la realizzazione pratica di un modello astratto (la classe).
 
     2) Che cos’è una classe?
