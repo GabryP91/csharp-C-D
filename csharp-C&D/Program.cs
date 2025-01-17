@@ -3,11 +3,12 @@
 
     1) Che cos’è un oggetto?
         
-        è un'istanza di una specifica classe (modello astratto), cioè la sua concretizzazione nel reale
+        Un oggetto è un'entità concreta creata a partire da una classe,  un'istanza unica con caratteristiche (attributi) e comportamenti (metodi) definiti dalla classe. 
+        È la realizzazione pratica di un modello astratto (la classe).
 
     2) Che cos’è una classe?
         
-        è un modello che descrive un pezzo di realtà, con sue caratteristiche (attributi) e comportamenti (metodi) 
+        è un modello astratto che descrive un pezzo di realtà, con sue caratteristiche (attributi) e comportamenti (metodi) 
         
     3) Quali sono gli operatori di confronto?
     
@@ -159,7 +160,7 @@ namespace csharp_C_D
             conto.Versamento(200);
             conto.MostraInfoConto();
 
-            // Esegui un prelievo
+            // Esegui un prelievo (restituisce valore errato)
             Console.WriteLine("\nEsegui un prelievo di 5000...\n");
             conto.Prelievo(5000);
             conto.MostraInfoConto();
