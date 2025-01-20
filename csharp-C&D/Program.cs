@@ -37,7 +37,7 @@
 
     8) Definisci la differenza tra un metodo statico e un metodo d’istanza.
         
-        metodo d'istanza: metodo che opera sull'istanza di una classe, quindi ha bisogno che venga prima definita l'istanza per poter essere chimato tramite la stessa.
+        metodo d'istanza: metodo che opera sull'istanza di una classe, quindi ha bisogno che venga prima definita l'istanza per poter essere chiamato tramite la stessa.
                           Ha accesso agli attributi e ai metodi dell'oggetto specifico su cui viene invocato.
 
         metodo statico: non dipende da alcuna istanza della classe ma appartiene alla classe stessa. Non ha bisogno di un oggetto specifico per essere invocato ma 
